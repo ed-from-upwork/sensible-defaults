@@ -30,5 +30,6 @@
         "editor.insertSpaces": true,
         "editor.tabSize": 4,
         "files.insertFinalNewline": true
-    }
+    },
+    "java.format.settings.url": "https://raw.githubusercontent.com/ed-from-upwork/sensible-defaults/refs/heads/main/.vscode/upwork-java-style.xml",
 }
