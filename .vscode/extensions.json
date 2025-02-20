@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "graphql.vscode-graphql",
+        "mhutchie.git-graph",
+        "vscjava.vscode-java-pack",
+        "sonarsource.sonarlint-vscode",
+        "redhat.vscode-xml",
+        "yzhang.markdown-all-in-one"
+    ]
+}
